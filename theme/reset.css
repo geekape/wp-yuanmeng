@@ -1,0 +1,27 @@
+/* 页面css重置 */
+*{
+	padding: 0;
+	margin: 0;
+}
+
+body{
+	font-size: 62.5%;
+	font-family: "Microsoft Yahei","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+a{
+	text-decoration: none;
+	color: #333;
+}
+a:hover{
+	color: #d36f16;
+}
+li{
+	list-style-type: none;
+}
+a>i{
+	padding: 0 2px;
+}
+span>i{
+	padding: 0 2px;
+}
